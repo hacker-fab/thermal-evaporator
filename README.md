@@ -1,3 +1,3 @@
 # thermal_evaporator
 
-CAD for vacuum chamber (for now)
+Solidworks CAD for vacuum chamber (for now) 
