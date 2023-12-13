@@ -1,6 +1,0 @@
-﻿"nichrome_wire_diam"= 0.0787402
-"plate_diam"=3
-"wire_width" = 0.15
-"D1@Sketch73"="wire_width"
-"D1@Sketch74"="nichrome_wire_diam"
-"D4@Sketch73"="wire_width"
